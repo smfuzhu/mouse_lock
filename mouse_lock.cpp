@@ -457,9 +457,13 @@ static DWORD g_lastMouseTick = 0;      // 仅鼠标模式下，最近一次鼠�
 static DWORD g_ignoreBefore = 0;       // 该时间点之前的空闲不算数（启动/解锁/唤醒时重置）
 static bool g_sessionLocked = false;   // 锁屏 / 挂起中
 
-// 任务管理器让位
+// 让位（任务管理器 / 外来全屏遮罩）
 static bool g_taskmgrPresent = false;
 static bool g_taskmgrHintShown = false;
+static bool g_foreignOverlay = false;   // 外来全屏置顶遮罩在位（如 ResProbe 隐私屏）
+static bool g_overlayHintShown = false;
+static int g_overlayStreak = 0;         // 外来遮罩判定的连续确认次数（去抖）
+static bool g_yielding = false;         // 当前已让位（截图层隐藏中）
 static POINT g_lastMousePos{0, 0};  // 最近一次「计入活动」的鼠标位置
 
 // 调试
@@ -702,6 +706,68 @@ static bool DetectTaskmgr() {
     return found;
 }
 
+// ---------------------------------------------------------------- 外来全屏遮罩检测
+//
+// 场景：另一款"全屏置顶遮罩"工具（典型是 ResProbe 的隐私屏）与我方截图层同在置顶带里，
+// 双方都周期性把自己抬到最上层。实测（60Hz 采样，两次独立复现，结论一致）：
+//   - 我方 500ms 一次的重新置顶 100% 抢赢，占空 11~13%；
+//   - 对方 100ms 一次的 HWND_TOP 总能在 120ms 内抢回；
+//   - 净效果 = 每 500ms 露一次冻结画面（中位 65ms），远控端每秒能看两次。
+// 对方在位时截图层本来就被完全遮住、功能被抵消，所以应由我方让位：
+// 隐藏截图层、回落锁鼠标兜底，把"谁在最上面"彻底让出去。
+//
+// 判定用"独立扫描"而不是"看我方窗口的上邻"：让位期间我方窗口是隐藏的，
+// 以自己的 Z 序位置当参照会在边界上抖动。
+struct OverlayScanCtx {
+    RECT target;
+    DWORD selfPid;
+    bool found;
+};
+
+static BOOL CALLBACK FindForeignOverlayProc(HWND hwnd, LPARAM lParam) {
+    auto *ctx = reinterpret_cast<OverlayScanCtx *>(lParam);
+    if (!IsWindowVisible(hwnd)) return TRUE;
+    // 非置顶窗口不可能压在置顶遮罩之上，顺手滤掉绝大多数普通窗口
+    if ((GetWindowLongPtrW(hwnd, GWL_EXSTYLE) & WS_EX_TOPMOST) == 0) return TRUE;
+
+    DWORD pid = 0;
+    GetWindowThreadProcessId(hwnd, &pid);
+    if (!pid || pid == ctx->selfPid) return TRUE;  // 自己的窗口不算
+
+    RECT r{};
+    if (!GetWindowRect(hwnd, &r)) return TRUE;
+    const LONG iw = (std::min)(r.right, ctx->target.right) - (std::max)(r.left, ctx->target.left);
+    const LONG ih = (std::min)(r.bottom, ctx->target.bottom) - (std::max)(r.top, ctx->target.top);
+    if (iw <= 0 || ih <= 0) return TRUE;
+
+    const long long inter = static_cast<long long>(iw) * ih;
+    const long long area = static_cast<long long>(ctx->target.right - ctx->target.left) *
+                           static_cast<long long>(ctx->target.bottom - ctx->target.top);
+    if (area <= 0) return TRUE;
+    // ≥90% 覆盖：任务栏、开始菜单、输入法候选框、普通弹窗都远达不到这个比例
+    if (inter * 100 < area * 90) return TRUE;
+
+    ctx->found = true;
+    return FALSE;
+}
+
+static bool DetectForeignFullscreenOverlay() {
+    // 与我方截图层对齐：截的是鼠标所在显示器，判据也用同一个矩形
+    POINT pt{};
+    GetCursorPos(&pt);
+    HMONITOR hMon = MonitorFromPoint(pt, MONITOR_DEFAULTTONEAREST);
+    MONITORINFO mi{};
+    mi.cbSize = sizeof(mi);
+    if (!GetMonitorInfoW(hMon, &mi)) return false;
+
+    OverlayScanCtx ctx{};
+    ctx.target = mi.rcMonitor;
+    ctx.selfPid = GetCurrentProcessId();
+    ctx.found = false;
+    EnumWindows(FindForeignOverlayProc, reinterpret_cast<LPARAM>(&ctx));
+    return ctx.found;
+}
+
 // ---------------------------------------------------------------- 空闲计时
 
 static DWORD LastActivityTick() {
@@ -847,12 +913,26 @@ static void LockNow(bool balloon, const char *reason = "manual") {
     DbgLog("LOCK   reason=%s idle=%lu/%lu ms mode=%d", reason,
            static_cast<unsigned long>(IdleElapsedMs(GetTickCount())),
            static_cast<unsigned long>(g_cfg.idleMinutes) * 60000UL, g_cfg.idleMode);
-    if (g_cfg.shotEnabled) {
+    // 让位判定必须放在截图之前：外来全屏遮罩在位时（对方带捕获排除），
+    // BitBlt 抓到的既不是真实桌面也不是有效画面，抓了只会白闪一下、
+    // 还可能把画面落盘。这里同时刷新缓存值，避免第一轮巡检再翻一次。
+    g_taskmgrPresent = DetectTaskmgr();
+    g_foreignOverlay = DetectForeignFullscreenOverlay();
+    g_overlayStreak = 0;
+    const bool yieldNow = g_taskmgrPresent || g_foreignOverlay;
+    g_yielding = yieldNow;
+
+    if (g_cfg.shotEnabled && !yieldNow) {
         if (CaptureShot()) {
             ShowCover();
-            if (g_taskmgrPresent) HideCover();
             if (g_cfg.saveShot) SaveShotPng();
         }
+    } else if (g_coverShowing) {
+        HideCover();  // 锁定态重复调用时别把上一轮的截图层留在最上层
+    }
+    if (yieldNow) {
+        DbgLog("       yield at lock: taskmgr=%d ovl=%d (skip capture, mouse-lock fallback)",
+               g_taskmgrPresent ? 1 : 0, g_foreignOverlay ? 1 : 0);
     }
     g_locked = true;
     ApplyLock();
@@ -865,6 +945,8 @@ static void UnlockNow(bool balloon, const char *reason = "manual") {
     g_locked = false;
     DestroyCover();
     FreeShot();
+    g_yielding = false;    // 截图层已销毁，让位状态随之归零（下次锁定会重新判定）
+    g_overlayStreak = 0;
     ApplyLock();
     g_ignoreBefore = GetTickCount();
     DbgLog("       idle timer reset (g_ignoreBefore=%lu)",
@@ -1193,30 +1275,66 @@ static void OnMainTimer() {
         UnlockNow(true, "tap-unlock");
     }
 
-    // 1) 任务管理器让位（跨 Z 序带，只能我方主动让位）
-    const bool taskmgr = DetectTaskmgr();
-    if (taskmgr != g_taskmgrPresent) {
-        g_taskmgrPresent = taskmgr;
-        if (taskmgr) {
-            HideCover();
-            ApplyLock();  // 覆盖层让位 → 自动接管为"锁鼠标"兜底
-            if (!g_taskmgrHintShown) {
-                g_taskmgrHintShown = true;
-                ShowBalloon(L"鼠标锁定工具", L"检测到任务管理器，截图层已临时让位。", NIIF_INFO);
-            }
-        } else {
-            g_ignoreBefore = now;  // 让位结束，重新计时
-            if (g_locked.load()) ShowCover();
-            ApplyLock();  // 覆盖层恢复 → 交还给"冻结屏幕"
+    // 1) 让位判定：任务管理器 / 外来全屏置顶遮罩（跨 Z 序带，只能我方主动让位）
+    g_taskmgrPresent = DetectTaskmgr();
+
+    // 去抖故意做成不对称的：
+    //   发现 -> 立刻让位（漏判一个 tick 就是多闪一次，宁可早让）；
+    //   消失 -> 连续 2 次确认才恢复（误恢复一次就又要 ShowCover 抢回顶部，等于再闪一次）。
+    const bool rawOverlay = DetectForeignFullscreenOverlay();
+    if (rawOverlay) {
+        g_overlayStreak = 0;
+        g_foreignOverlay = true;
+    } else if (g_foreignOverlay) {
+        if (++g_overlayStreak >= 2) {
+            g_overlayStreak = 0;
+            g_foreignOverlay = false;
         }
-        DbgLog("taskmgr=%d coverShowing=%d needMouseLock=%d", taskmgr ? 1 : 0,
-               g_coverShowing ? 1 : 0, NeedMouseLock() ? 1 : 0);
+    } else {
+        g_overlayStreak = 0;
     }
 
-    // 2) 截图层保持置顶（任务管理器在场时不抢），并重新断言光标裁剪
+    const bool yield = g_taskmgrPresent || g_foreignOverlay;
+    if (yield != g_yielding) {
+        g_yielding = yield;
+        // 未锁定时只同步标志：没有截图层可让位，也不该弹"已让位"的气球
+        if (!g_locked.load()) {
+            DbgLog("yield=%d (unlocked, flags only)", yield ? 1 : 0);
+        } else if (yield) {
+            HideCover();
+            ApplyLock();  // 覆盖层让位 → 自动接管为"锁鼠标"兜底
+            if (g_taskmgrPresent) {
+                if (!g_taskmgrHintShown) {
+                    g_taskmgrHintShown = true;
+                    ShowBalloon(L"鼠标锁定工具", L"检测到任务管理器，截图层已临时让位。",
+                                NIIF_INFO);
+                }
+            } else if (!g_overlayHintShown) {
+                g_overlayHintShown = true;
+                ShowBalloon(L"鼠标锁定工具",
+                            L"检测到其它全屏遮罩窗口，截图层已临时让位（改用锁鼠标）。", NIIF_INFO);
+            }
+            DbgLog("yield=1 taskmgr=%d ovl=%d coverShowing=%d needMouseLock=%d",
+                   g_taskmgrPresent ? 1 : 0, g_foreignOverlay ? 1 : 0, g_coverShowing ? 1 : 0,
+                   NeedMouseLock() ? 1 : 0);
+        } else {
+            g_ignoreBefore = now;  // 让位结束，重新计时
+            // 让位期间可能压根没截过图（锁定那一刻就已让位），这里补一张，
+            // 否则 ShowCover() 会因为 g_shot.bmp 为空直接返回，永远只剩锁鼠标。
+            if (!g_shot.bmp && g_cfg.shotEnabled) CaptureShot();
+            ShowCover();
+            ApplyLock();  // 覆盖层恢复 → 交还给"冻结屏幕"
+            DbgLog("yield=0 taskmgr=%d ovl=%d coverShowing=%d needMouseLock=%d",
+                   g_taskmgrPresent ? 1 : 0, g_foreignOverlay ? 1 : 0, g_coverShowing ? 1 : 0,
+                   NeedMouseLock() ? 1 : 0);
+        }
+    }
+
+    // 2) 截图层保持置顶（让位期间不抢，注意这行带 SWP_SHOWWINDOW，
+    //    漏判会把刚隐藏的窗口又显示出来），并重新断言光标裁剪
     if (g_locked.load()) {
         ReassertClip();
-        if (!g_taskmgrPresent && g_cover) {
+        if (!g_yielding && g_cover) {
             SetWindowPos(g_cover, HWND_TOPMOST, 0, 0, 0, 0,
                          SWP_NOACTIVATE | SWP_NOMOVE | SWP_NOSIZE | SWP_SHOWWINDOW);
         }
@@ -1254,10 +1372,11 @@ static void OnMainTimer() {
                 DbgLog("INPUT  detected: lastInput advanced, idle now=%lu ms (mode=%d)",
                        static_cast<unsigned long>(IdleElapsedMs(now)), g_cfg.idleMode);
             }
-            DbgLog("TICK   idle=%lu/%lu ms | locked=%d mode=%d taskmgr=%d session=%d menu=%d active=%d cover=%d mouselock=%d gli=%d glitch=%lu moves(r/i)=%lu/%lu keys(r/i)=%lu/%lu",
+            DbgLog("TICK   idle=%lu/%lu ms | locked=%d mode=%d taskmgr=%d ovl=%d yield=%d session=%d menu=%d active=%d cover=%d mouselock=%d gli=%d glitch=%lu moves(r/i)=%lu/%lu keys(r/i)=%lu/%lu",
                    static_cast<unsigned long>(IdleElapsedMs(now)),
                    static_cast<unsigned long>(threshold), g_locked.load() ? 1 : 0, g_cfg.idleMode,
-                   g_taskmgrPresent ? 1 : 0, g_sessionLocked ? 1 : 0, g_menuOpen.load() ? 1 : 0,
+                   g_taskmgrPresent ? 1 : 0, g_foreignOverlay ? 1 : 0, g_yielding ? 1 : 0,
+                   g_sessionLocked ? 1 : 0, g_menuOpen.load() ? 1 : 0,
                    IdleTimerActive() ? 1 : 0, g_coverShowing ? 1 : 0, NeedMouseLock() ? 1 : 0,
                    g_dbgLastInputOk ? 1 : 0,
                    static_cast<unsigned long>(g_dbgGlitch),
