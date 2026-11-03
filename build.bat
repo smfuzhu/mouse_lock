@@ -2,7 +2,7 @@
 setlocal
 rem ============================================================
 rem  MSVC 编译脚本（Visual Studio / Build Tools）
-rem  用法：双击运行，或在本目录打开命令行执行 build.bat
+rem  用法：双击运行 ，或在本目录打开命令行执行 build.bat
 rem ============================================================
 
 set "SRC=mouse_lock.cpp"
