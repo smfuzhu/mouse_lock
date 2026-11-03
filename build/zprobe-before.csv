@@ -1,0 +1,1801 @@
+﻿t_ms,top_hwnd,top_class,top_exe,top_pid,topmost,transparent,rect,matches,second_class,second_exe
+0,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+24,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+33,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+50,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+66,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+83,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+99,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+116,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+134,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+150,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+165,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+183,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+200,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+218,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+232,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+249,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+267,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+282,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+299,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+316,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+333,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+350,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+365,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+383,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+399,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+417,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+433,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+449,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+466,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+483,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+500,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+516,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+532,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+549,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+566,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+583,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+600,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+616,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+632,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+649,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+666,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+695,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+701,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+717,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+732,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+749,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+766,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+783,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+799,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+816,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+833,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+850,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+867,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+882,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+899,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+916,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+932,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+949,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+966,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+982,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1000,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1016,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1033,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1049,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1066,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1082,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1099,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1116,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1132,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1150,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1166,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1183,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1200,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1216,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1233,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1250,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1266,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1282,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1300,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1316,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1333,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1349,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1366,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1382,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1399,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1416,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1433,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1449,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1466,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1483,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1500,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1516,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1533,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1549,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1566,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1583,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1600,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1616,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1633,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1649,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1666,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1683,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1699,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1716,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1733,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1749,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1767,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1783,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1799,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1816,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1833,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1849,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1866,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1882,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1899,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1917,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1932,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1949,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1966,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+1982,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2000,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2016,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2033,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2050,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2066,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2083,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2099,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2116,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2132,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2150,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2166,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2183,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2199,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2215,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2233,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2249,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2266,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2283,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2300,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2316,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2332,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2349,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2366,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2382,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2399,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2415,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2432,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2450,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2466,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2483,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2499,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2516,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2533,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2549,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2566,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2583,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2599,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2616,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2632,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2650,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2666,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2683,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2699,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2716,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2734,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2750,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2767,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2783,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2800,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2816,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2832,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2849,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2866,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2883,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2901,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2916,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2932,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2949,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2966,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2984,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+2999,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3016,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3033,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3050,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3066,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3084,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3099,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3116,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3133,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3150,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3165,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3183,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3199,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3216,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3233,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3249,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3266,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3283,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3300,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3316,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3333,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3349,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3368,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3384,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3400,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3418,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3432,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3451,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3467,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3484,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3501,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3517,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3532,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3549,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3566,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3582,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3599,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3616,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3632,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3649,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3666,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3683,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3701,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3716,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3732,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3749,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3765,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3782,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3800,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3816,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3833,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3850,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3866,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3883,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3899,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3915,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3933,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3949,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3965,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+3982,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4000,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4015,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4033,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4049,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4066,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4084,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4100,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4116,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4133,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4149,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4167,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4182,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4200,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4217,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4233,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4249,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4267,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4283,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4299,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4317,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4332,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4350,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4366,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4382,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4399,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4416,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4432,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4452,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4466,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4483,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4500,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4515,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4533,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4550,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4567,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4582,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4599,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4616,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4633,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4650,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4666,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4683,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4699,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4716,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4733,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4749,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4766,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4783,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4802,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4816,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4833,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+4852,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+4876,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+4885,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+4900,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+4916,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+4938,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+4950,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+4973,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+4982,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+4999,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+5015,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+5032,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+5049,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5070,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5083,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5100,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5116,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5133,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5150,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5166,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5183,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5199,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5218,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5233,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5249,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5266,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5283,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5299,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5316,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5333,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5349,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5366,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5383,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5400,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5418,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5433,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5449,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+5470,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+5483,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+5499,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5522,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5533,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5549,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5566,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5582,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5600,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5616,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5632,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5650,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5667,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5683,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5699,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5716,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5733,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5750,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5766,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5782,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5800,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5817,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5832,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5849,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5865,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5883,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5900,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5916,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5932,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+5949,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+5972,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+5983,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+5999,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+6017,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+6033,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6054,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6067,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6082,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6099,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6116,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6133,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6150,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6167,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6183,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6200,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6216,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6235,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6249,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6267,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6282,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6299,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6318,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6333,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6349,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6366,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6383,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6400,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6417,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6435,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+6453,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+6467,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+6482,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6505,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6516,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6533,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6550,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6566,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6583,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6600,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6616,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6633,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6650,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6666,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6683,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6699,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6717,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6732,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6750,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6766,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6782,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6799,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6817,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6833,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6849,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6866,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6883,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6899,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6915,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6933,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+6950,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+6971,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+6983,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+6999,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+7016,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+7035,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7054,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7066,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7083,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7099,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7116,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7133,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7149,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7166,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7183,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7199,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7215,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7235,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7250,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7265,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7283,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7299,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7316,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7333,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7350,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7366,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7382,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7399,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7416,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7433,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7451,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+7471,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7486,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7499,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7516,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7533,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7549,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7566,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7583,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7599,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7616,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7633,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7650,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7666,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7683,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7699,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7716,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7732,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7749,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7766,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7783,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7800,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7816,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7833,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7850,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7866,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7883,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7899,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7916,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7933,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+7950,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+7973,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+7982,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+7999,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+8016,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8043,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8050,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8065,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8083,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8099,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8116,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8133,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8149,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8166,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8183,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8199,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8216,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8233,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8249,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8266,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8283,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8299,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8316,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8333,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8349,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8368,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8385,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8401,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8418,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8434,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8451,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8469,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+8497,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+8501,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+8517,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+8532,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+8549,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+8565,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8588,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8600,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8616,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8633,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8649,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8666,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8683,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8700,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8717,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8732,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8749,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8766,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8783,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8800,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8816,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8833,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8850,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8866,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8883,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8899,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8916,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8933,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+8950,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+8973,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+8982,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+8999,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9022,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9033,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9050,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9066,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9083,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9099,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9116,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9133,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9149,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9167,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9183,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9199,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9216,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9233,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9250,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9266,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9283,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9300,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9316,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9333,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9350,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9366,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9383,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9399,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9417,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9434,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9451,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+9469,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+9483,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+9500,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+9517,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+9533,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+9549,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9572,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9582,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9599,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9617,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9633,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9650,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9666,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9683,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9699,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9716,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9733,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9749,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9766,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9783,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9799,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9817,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9833,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9849,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9866,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9882,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9899,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9916,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9933,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+9949,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+9971,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+9982,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10003,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10016,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10033,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10049,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10067,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10082,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10100,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10116,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10133,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10150,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10166,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10182,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10200,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10216,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10233,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10249,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10266,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10283,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10300,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10317,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10333,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10350,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10366,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10383,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10399,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10416,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10433,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10450,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+10475,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+10483,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+10500,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+10517,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+10533,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10554,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10567,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10582,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10600,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10616,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10633,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10652,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10667,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10683,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10700,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10716,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10733,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10750,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10766,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10783,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10800,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10816,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10833,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10850,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10868,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10883,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10900,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10916,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10933,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10950,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+10972,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10988,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+10999,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11016,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11032,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11050,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11067,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11082,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11099,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11116,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11132,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11149,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11166,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11183,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11200,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11217,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11233,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11251,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11267,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11283,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11299,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11316,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11333,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11349,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11367,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11383,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11399,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11416,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11433,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11451,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+11471,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+11483,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+11500,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+11517,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11536,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11549,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11566,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11583,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11600,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11616,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11634,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11650,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11668,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11683,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11700,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11716,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11732,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11749,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11765,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11784,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11800,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11817,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11834,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11850,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11867,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11883,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11900,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11917,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11933,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+11950,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+11974,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+11983,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+12000,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+12016,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+12034,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+12049,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12069,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12083,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12100,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12117,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12133,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12149,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12166,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12183,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12200,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12216,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12233,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12250,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12266,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12283,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12299,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12316,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12334,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12351,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12366,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12383,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12399,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12416,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12432,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12452,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+12470,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+12483,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+12499,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12519,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12533,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12550,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12566,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12583,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12599,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12616,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12634,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12650,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12666,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12682,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12700,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12716,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12735,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12749,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12766,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12783,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12800,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12816,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12833,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12851,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12866,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12883,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12900,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12916,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12934,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+12951,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+12973,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+12983,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+13000,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+13017,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+13033,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13053,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13066,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13083,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13100,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13116,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13133,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13150,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13166,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13184,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13199,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13216,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13233,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13250,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13267,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13283,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13299,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13316,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13333,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13349,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13367,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13384,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13401,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13417,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13434,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13450,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+13481,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13494,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13501,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13516,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13534,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13550,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13566,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13582,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13602,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13617,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13635,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13651,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13667,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13683,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13700,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13716,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13733,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13749,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13766,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13783,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13799,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13817,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13833,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13850,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13866,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13884,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13899,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13916,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13933,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+13950,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+13973,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+13983,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+14000,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+14016,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+14033,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14054,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14066,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14083,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14100,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14116,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14133,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14154,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14166,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14183,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14200,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14216,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14233,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14250,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14266,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14282,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14299,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14316,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14333,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14349,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14367,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14384,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14400,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14416,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14433,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14451,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+14475,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14487,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14501,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14518,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14534,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14550,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14566,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14583,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14600,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14616,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14633,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14649,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14666,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14682,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14699,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14716,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14733,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14750,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14766,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14783,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14800,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14816,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14833,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14850,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14866,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14883,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14900,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14916,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14933,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+14950,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+14976,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+14983,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+15001,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15020,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15034,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15050,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15067,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15083,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15099,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15116,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15133,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15150,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15168,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15183,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15199,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15216,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15233,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15250,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15266,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15283,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15299,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15316,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15333,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15349,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15366,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15383,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15399,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15416,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15433,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15450,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15467,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15483,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15500,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15516,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15533,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15550,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15567,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15584,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15599,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15616,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15634,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15649,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15666,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15683,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15699,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15722,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15733,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15750,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15766,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15783,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15800,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15816,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15833,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15851,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15866,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15883,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15900,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15917,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15933,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+15950,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+15974,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+15983,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+16000,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16021,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16032,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16050,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16066,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16083,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16099,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16117,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16133,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16150,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16166,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16184,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16201,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16216,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16234,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16249,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16266,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16283,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16300,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16316,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16332,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16350,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16366,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16383,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16401,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16417,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16433,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16450,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+16471,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+16483,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+16500,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+16516,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+16533,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+16550,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16571,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16583,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16599,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16616,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16634,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16649,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16667,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16684,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16699,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16716,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16733,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16750,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16767,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16783,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16799,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16817,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16832,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16849,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16866,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16882,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16899,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16917,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16933,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16950,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+16972,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+16986,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17000,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17016,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17033,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17050,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17066,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17083,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17100,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17116,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17134,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17149,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17167,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17183,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17202,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17217,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17233,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17249,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17266,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17283,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17300,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17317,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17333,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17350,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17367,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17383,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17399,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17417,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17434,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17449,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+17470,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+17483,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+17499,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+17516,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+17532,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17555,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17566,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17584,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17599,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17616,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17633,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17649,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17666,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17683,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17699,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17716,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17733,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17750,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17766,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17783,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17799,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17817,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17833,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17850,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17866,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17883,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17900,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17916,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17933,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17952,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+17972,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17987,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+17999,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18017,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18034,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18050,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18066,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18083,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18100,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18116,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18133,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18150,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18167,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18183,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18199,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18216,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18234,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18249,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18266,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18283,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18300,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18316,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18334,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18350,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18369,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18385,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18401,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18418,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18433,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18452,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+18482,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+18484,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+18501,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+18516,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18539,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18550,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18567,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18583,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18599,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18616,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18633,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18650,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18666,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18683,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18699,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18717,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18733,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18752,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18766,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18784,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18799,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18816,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18833,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18850,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18866,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18883,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18900,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18916,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18933,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18951,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18969,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18985,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+18999,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19016,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19033,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19050,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19067,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19082,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19100,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19117,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19134,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19151,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19167,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19182,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19200,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19216,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19234,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19249,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19267,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19283,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19300,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19316,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19332,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19349,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19366,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19384,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19401,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19416,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19433,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19450,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+19472,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+19483,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+19500,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19521,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19533,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19551,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19567,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19584,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19600,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19616,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19633,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19650,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19666,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19683,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19700,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19716,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19733,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19751,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19767,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19784,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19799,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19817,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19834,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19850,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19866,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19883,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19899,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19917,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19933,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+19949,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+19974,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+19983,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+20001,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+20017,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+20032,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20053,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20066,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20083,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20100,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20116,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20133,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20150,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20167,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20184,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20201,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20217,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20233,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20250,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20266,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20283,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20300,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20316,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20333,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20350,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20366,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20384,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20400,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20416,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20433,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20449,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+20470,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+20483,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20504,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20517,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20534,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20549,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20566,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20583,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20601,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20617,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20633,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20650,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20667,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20683,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20700,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20716,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20732,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20750,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20766,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20782,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20799,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20817,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20833,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20850,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20867,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20885,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20900,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20916,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20933,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+20950,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+20973,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+20982,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+21000,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+21016,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+21033,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21054,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21066,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21083,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21100,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21117,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21133,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21150,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21166,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21183,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21200,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21216,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21233,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21249,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21266,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21282,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21300,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21317,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21334,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21352,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21366,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21384,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21399,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21417,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21434,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21450,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+21472,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21489,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21501,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21518,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21533,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21550,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21567,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21583,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21600,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21616,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21633,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21649,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21666,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21683,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21699,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21716,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21734,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21751,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21766,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21784,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21800,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21816,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21833,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21849,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21867,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21883,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21900,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21916,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21934,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+21951,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+21972,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+21983,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+21999,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ZTestOverlayClass,zoverlay.exe
+22016,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22041,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22050,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22066,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22082,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22100,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22116,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22133,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22149,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22166,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22183,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22200,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22216,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22233,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22249,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22267,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22282,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22299,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22316,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22334,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22350,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22366,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22383,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22401,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22417,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22433,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22449,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22466,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22485,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22501,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22516,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22533,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22550,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22567,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22584,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22601,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22617,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22633,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22650,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22667,0x5A18E0,ZTestOverlayClass,zoverlay.exe,23384,1,0,0,0,1920,1080,4,MouseLockCoverClass,mouse_lock.exe
+22685,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+22707,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+22716,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+22733,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+22751,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+22767,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+22783,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+22800,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+22816,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+22833,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+22850,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+22866,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+22883,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+22900,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+22916,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+22933,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+22951,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+22967,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+22983,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23000,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23016,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23034,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23049,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23066,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23082,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23099,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23116,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23133,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23150,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23166,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23183,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23200,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23216,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23233,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23250,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23266,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23283,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23300,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23318,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23333,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23349,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23367,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23384,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23401,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23418,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23433,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23451,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23468,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23484,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23501,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23516,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23533,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23550,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23566,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23583,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23600,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23616,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23633,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23650,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23667,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23683,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23702,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23717,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23733,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23750,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23766,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23783,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23800,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23817,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23833,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23850,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23866,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23883,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23902,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23916,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23932,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23950,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23966,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23983,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+23999,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24017,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24034,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24051,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24066,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24083,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24100,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24118,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24133,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24151,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24166,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24183,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24200,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24216,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24233,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24249,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24266,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24282,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24301,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24316,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24333,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24351,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24366,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24383,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24399,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24416,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24433,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24449,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24466,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24483,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24499,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24516,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24533,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24549,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24566,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24583,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24600,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24616,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24633,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24650,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24667,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24684,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24700,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24717,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24732,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24751,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24766,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24783,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24800,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24816,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24833,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24850,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24866,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24883,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24900,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24919,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24933,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24951,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24966,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24983,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+24999,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25017,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25033,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25050,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25066,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25083,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25099,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25116,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25133,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25149,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25166,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25183,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25200,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25217,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25233,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25250,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25266,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25284,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25300,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25316,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25334,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25349,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25367,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25383,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25401,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25417,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25434,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25449,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25466,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25483,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25499,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25517,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25534,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25549,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25566,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25583,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25600,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25616,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25633,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25650,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25667,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25683,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25701,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25719,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25733,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25750,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25767,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25784,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25800,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25817,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25834,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25850,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25866,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25884,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25900,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25916,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25934,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25950,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25966,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+25983,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26000,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26016,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26033,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26049,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26066,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26083,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26100,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26116,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26133,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26149,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26166,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26183,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26200,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26216,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26233,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26249,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26267,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26284,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26299,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26316,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26333,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26350,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26366,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26383,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26400,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26417,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26434,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26451,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26466,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26483,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26500,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26516,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26533,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26550,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26566,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26583,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26600,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26617,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26633,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26650,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26668,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26683,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26699,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26718,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26733,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26750,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26767,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26783,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26800,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26817,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26834,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26850,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26866,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26882,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26901,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26916,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26933,0x122316,MouseLockCoverClass,mouse_lock.exe,16552,1,0,0,0,1920,1080,4,ConsoleWindowClass,zprobe.exe
+26950,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+26972,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+26984,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+27000,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+27017,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+27033,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+27049,0x5D22E2,ConsoleWindowClass,zprobe.exe,36936,0,0,104,104,1097,623,4,Chrome_WidgetWin_1,CodeBuddy CN.exe
+27067,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27092,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27100,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27118,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27135,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27156,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27167,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27185,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27199,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27216,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27234,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27251,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27267,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27284,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27300,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27317,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27334,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27350,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27367,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27384,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27399,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27416,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27437,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27451,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27467,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27483,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27500,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27517,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27533,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27550,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27566,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27583,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27601,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27617,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27634,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27649,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27666,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27683,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27699,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27717,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27733,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27751,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27767,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27783,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27800,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27816,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27833,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27850,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27866,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27882,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27900,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27917,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27933,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27950,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27967,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+27983,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28000,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28016,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28033,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28050,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28067,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28082,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28100,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28116,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28133,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28150,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28166,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28184,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28200,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28217,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28233,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28250,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28267,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28283,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28301,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28319,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28335,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28350,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28369,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28386,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28402,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28420,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28435,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28452,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28471,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28486,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28501,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28519,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28535,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28552,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28569,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28584,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28602,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28619,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28635,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28651,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28669,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28686,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28702,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28719,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28733,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28750,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28767,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28784,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28800,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28818,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28834,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28850,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28866,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28885,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28906,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28927,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28934,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28952,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28969,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+28985,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29000,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29017,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29033,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29050,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29067,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29084,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29101,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29117,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29134,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29150,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29167,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29184,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29200,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29217,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29234,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29250,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29267,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29285,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29300,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29317,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29334,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29350,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29366,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29383,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29403,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29417,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29433,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29450,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29467,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29484,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29500,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29517,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29534,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29550,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29567,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29584,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29601,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29617,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29634,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29651,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29667,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29684,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29700,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29717,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29733,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29750,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29766,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29783,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29801,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29817,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29833,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29851,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29866,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29884,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29902,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29917,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29934,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29951,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29967,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe
+29984,0x1205F0,Chrome_WidgetWin_1,CodeBuddy CN.exe,18868,0,0,-8,-8,1928,1048,4,ConsoleWindowClass,zprobe.exe

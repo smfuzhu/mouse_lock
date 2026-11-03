@@ -310,13 +310,19 @@ static void DbgLog(const char *fmt, ...) {
     if (!g_cfg.debug) return;
     const std::wstring path = GetAppDataDir() + L"\\debug.log";
 
-    // 超过 2MB 就重新开始，避免无限增长
+    // 满 2MB 不再整份清空，而是轮转成 debug.log.1（只保留上一代）：
+    // 清空式重写会让事后分析丢掉全部上下文 —— 实测每秒一条心跳时 1~2 小时就滚一次，
+    // 等你去查的时候当时的现场已经没了。
     WIN32_FILE_ATTRIBUTE_DATA fad{};
     bool tooBig = false;
     if (GetFileAttributesExW(path.c_str(), GetFileExInfoStandard, &fad))
         tooBig = fad.nFileSizeHigh > 0 || fad.nFileSizeLow > 2 * 1024 * 1024;
+    if (tooBig) {
+        const std::wstring prev = path + L".1";
+        MoveFileExW(path.c_str(), prev.c_str(), MOVEFILE_REPLACE_EXISTING);
+    }
 
-    FILE *f = _wfopen(path.c_str(), tooBig ? L"w" : L"a");
+    FILE *f = _wfopen(path.c_str(), L"a");
     if (!f) return;
 
     SYSTEMTIME st{};
@@ -718,10 +724,25 @@ static bool DetectTaskmgr() {
 //
 // 判定用"独立扫描"而不是"看我方窗口的上邻"：让位期间我方窗口是隐藏的，
 // 以自己的 Z 序位置当参照会在边界上抖动。
+// 命中窗口的信息只用于日志：出问题时能立刻知道"到底是谁把截图层顶掉了"。
+static char g_ovlClass[64] = "";
+static DWORD g_ovlPid = 0;
+static long g_ovlCoverPct = 0;
+
+static void NarrowAscii(const wchar_t *src, char *dst, int cap) {
+    int i = 0;
+    for (; src && src[i] && i < cap - 1; ++i)
+        dst[i] = static_cast<char>(src[i] < 128 ? src[i] : '?');
+    dst[i] = 0;
+}
+
 struct OverlayScanCtx {
     RECT target;
     DWORD selfPid;
     bool found;
+    HWND hwnd;
+    DWORD pid;
+    long coverPct;
 };
 
 static BOOL CALLBACK FindForeignOverlayProc(HWND hwnd, LPARAM lParam) {
@@ -744,10 +765,21 @@ static BOOL CALLBACK FindForeignOverlayProc(HWND hwnd, LPARAM lParam) {
     const long long area = static_cast<long long>(ctx->target.right - ctx->target.left) *
                            static_cast<long long>(ctx->target.bottom - ctx->target.top);
     if (area <= 0) return TRUE;
-    // ≥90% 覆盖：任务栏、开始菜单、输入法候选框、普通弹窗都远达不到这个比例
-    if (inter * 100 < area * 90) return TRUE;
+
+    // 覆盖率门槛：≥99%，并且必须压住任务栏那条边。
+    //
+    // 原来定 90% 太松，实测被 360 浏览器组件 SeAppService.exe 的 mininews 窗口骗到：
+    // 它是 1920x1040（正好是"在任务栏之上最大化"的尺寸，覆盖率 96.3%）、置顶、分层
+    // 且逐像素全透明 —— 看不见任何东西，却让本程序永久让位（截图层不再显示、
+    // 一锁定就回落成锁鼠标）。真正的全屏遮罩（例如 ResProbe 隐私屏）铺满整个
+    // 虚拟桌面，连任务栏一起盖住，覆盖率 100%。
+    if (inter * 100 < area * 99) return TRUE;
+    if (r.bottom < ctx->target.bottom) return TRUE;  // 没盖住底部那条任务栏
 
     ctx->found = true;
+    ctx->hwnd = hwnd;
+    ctx->pid = pid;
+    ctx->coverPct = static_cast<long>(inter * 100 / area);
     return FALSE;
 }
 
@@ -765,6 +797,13 @@ static bool DetectForeignFullscreenOverlay() {
     ctx.selfPid = GetCurrentProcessId();
     ctx.found = false;
     EnumWindows(FindForeignOverlayProc, reinterpret_cast<LPARAM>(&ctx));
+    if (ctx.found) {
+        wchar_t cls[64] = L"";
+        GetClassNameW(ctx.hwnd, cls, 64);
+        NarrowAscii(cls, g_ovlClass, sizeof(g_ovlClass));
+        g_ovlPid = ctx.pid;
+        g_ovlCoverPct = ctx.coverPct;
+    }
     return ctx.found;
 }
 
@@ -931,8 +970,11 @@ static void LockNow(bool balloon, const char *reason = "manual") {
         HideCover();  // 锁定态重复调用时别把上一轮的截图层留在最上层
     }
     if (yieldNow) {
-        DbgLog("       yield at lock: taskmgr=%d ovl=%d (skip capture, mouse-lock fallback)",
-               g_taskmgrPresent ? 1 : 0, g_foreignOverlay ? 1 : 0);
+        DbgLog("       yield at lock: taskmgr=%d ovl=%d (skip capture, mouse-lock fallback) "
+               "| cls=%s pid=%lu cover=%ld%%",
+               g_taskmgrPresent ? 1 : 0, g_foreignOverlay ? 1 : 0,
+               g_ovlClass[0] ? g_ovlClass : "-", static_cast<unsigned long>(g_ovlPid),
+               g_ovlCoverPct);
     }
     g_locked = true;
     ApplyLock();
@@ -1299,7 +1341,10 @@ static void OnMainTimer() {
         g_yielding = yield;
         // 未锁定时只同步标志：没有截图层可让位，也不该弹"已让位"的气球
         if (!g_locked.load()) {
-            DbgLog("yield=%d (unlocked, flags only)", yield ? 1 : 0);
+            DbgLog("yield=%d (unlocked, flags only) | taskmgr=%d ovl=%d cls=%s pid=%lu cover=%ld%%",
+                   yield ? 1 : 0, g_taskmgrPresent ? 1 : 0, g_foreignOverlay ? 1 : 0,
+                   g_ovlClass[0] ? g_ovlClass : "-", static_cast<unsigned long>(g_ovlPid),
+                   g_ovlCoverPct);
         } else if (yield) {
             HideCover();
             ApplyLock();  // 覆盖层让位 → 自动接管为"锁鼠标"兜底
@@ -1314,9 +1359,11 @@ static void OnMainTimer() {
                 ShowBalloon(L"鼠标锁定工具",
                             L"检测到其它全屏遮罩窗口，截图层已临时让位（改用锁鼠标）。", NIIF_INFO);
             }
-            DbgLog("yield=1 taskmgr=%d ovl=%d coverShowing=%d needMouseLock=%d",
+            DbgLog("yield=1 taskmgr=%d ovl=%d coverShowing=%d needMouseLock=%d "
+                   "| 遮罩来源 cls=%s pid=%lu cover=%ld%%",
                    g_taskmgrPresent ? 1 : 0, g_foreignOverlay ? 1 : 0, g_coverShowing ? 1 : 0,
-                   NeedMouseLock() ? 1 : 0);
+                   NeedMouseLock() ? 1 : 0, g_ovlClass[0] ? g_ovlClass : "-",
+                   static_cast<unsigned long>(g_ovlPid), g_ovlCoverPct);
         } else {
             g_ignoreBefore = now;  // 让位结束，重新计时
             // 让位期间可能压根没截过图（锁定那一刻就已让位），这里补一张，
